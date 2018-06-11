@@ -1,0 +1,44 @@
+h1{
+  color:lightblue;
+  font-family:sans-serif;
+  text-align: center;
+}
+
+h3{
+  font-family:monospace;
+  color:white;
+  font-size:30px;
+}
+
+body{
+  background-color: beige;
+  color:;
+}
+
+div{
+  background-color:grey;
+  color:white;
+  font-family:monospace;
+  text-align: center;
+}
+figcaption{
+  font-family:monospace;
+}
+
+figure{
+//border: 1px solid black;
+padding-bottom: 30px;
+margin-bottom:30px;
+width:45%;
+display:inline-block;
+text-align: center;
+}
+
+.followup{
+  float:left;
+  display:inline-block;
+}
+#classes{
+  float: none;
+  width= 100%;
+}
