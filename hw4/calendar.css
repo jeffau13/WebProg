@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(156, 187, 245, 0.959);
+    font-family: monospace;
+    font-size: 18px;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1 {
+    font: 18pt monospace;
+    margin-left: 10px;
+}
+
+
+#today {
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table{
+    /* border: 1px solid salmon; */
+    margin-top: 10px;
+}
+th{
+    padding:10px 20px;
+}
