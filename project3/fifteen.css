@@ -1,0 +1,55 @@
+body {
+	background-color: white;
+	font-family: cursive;
+	font-size: 16px;
+	text-align: center;
+}
+
+#controls,
+#mid,
+#puzzlearea {
+	width: 400px;
+}
+
+#controls {
+	padding-top: 10px;
+	text-align: center;
+}
+
+h1 {
+	margin: 10px 0px;
+	text-align: center;
+}
+
+#mid {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#puzzlearea {
+	font-family: sans-serif;
+	font-size: 32pt;
+	height: 400px;
+	padding: 0px;
+	position: relative;
+	color: white;
+	-webkit-text-stroke: 1px black;
+}
+
+.puzzlepiece {
+	background-image: url(grimes.jpg);
+	background-size: 400px 400px;
+	border: 2px solid black;
+	height: 96px;
+	line-height: 96px;
+	position: absolute;
+	text-align: center;
+	vertical-align: middle;
+	width: 96px;
+	color: white;
+	-webkit-text-stroke: 1px black;
+}
+
+#w3c {
+	text-align: right;
+}
